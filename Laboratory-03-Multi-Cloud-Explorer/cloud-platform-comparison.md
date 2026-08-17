@@ -30,3 +30,17 @@ Google Cloud is a strong choice for Artificial Intelligence, Machine Learning, a
 
 Personally, I would choose AWS because it provides many different services and can support different types of projects. I also like that a small project can start with a few resources and later scale as its needs increase. For a student learning cloud computing, AWS also gives me the opportunity to explore many areas of cloud technology.
 
+
+# Cloud Service Matching
+
+| Service Category    | AWS        | Azure                          | GCP                            |
+| ------------------- | ---------- | ------------------------------ | ------------------------------ |
+| Virtual Machine     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| Object Storage      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| Identity Management | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| SQL Database        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Simple Explanation
+
+These services perform similar jobs even though their names are different. For example, Amazon EC2, Azure Virtual Machines, and Compute Engine all provide virtual machines. Similarly, Amazon S3, Azure Blob Storage, and Cloud Storage are used for object storage.
